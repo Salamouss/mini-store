@@ -1,0 +1,2 @@
+Current stage: 0 (finished) | Done: Vite + Tailwind v4 working, first commit pushed to github.com/Salamouss/mini-store
+Stuck on: - | Next task: stage 1 - create src/components/ProductCard.jsx (props: image, title, price, category) | Ideas parked: -
